@@ -1,0 +1,6 @@
+baseURL = 'https://raymuir.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = "hyde"
+[params]
+description = "Test"
