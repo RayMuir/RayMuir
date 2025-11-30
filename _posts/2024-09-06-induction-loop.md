@@ -1,7 +1,7 @@
 ---
 title: 'Home-made Induction Loop Receiver'
-date: 2023-06-01
-permalink: /posts/2023/06/induction-loop/
+date: 2024-09-06
+permalink: /posts/2024/09/induction-loop/
 tags:
   - Electronics
   - Hearing Loop
